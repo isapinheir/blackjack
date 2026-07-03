@@ -1,6 +1,6 @@
 # 🃏 Blackjack
 
-Um jogo interativo de blackjack/vinte-e-um desenvolvido em JavaScript para aplicar e consolidar os conceitos fundamentais da linguagem.
+Um jogo interativo de blackjack/vinte-e-um desenvolvido em JavaScript para aplicar e consolidar os conceitos fundamentais da linguagem, como parte da trilha de aprendizado de Front-End do FreeCodeCamp.
 
 ## Conceitos de JavaScript Aplicados
 
